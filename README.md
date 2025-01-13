@@ -11,8 +11,8 @@ I'm a passionate **Computer Engineering** student with a strong focus on **web p
 - Continuously exploring new advancements in **blockchain** and **smart contract** and **software development methods**.
 
 ## 🛠 Technical Skills
-- **Frontend:** React.js, React Native, Flutter, Angular.js,Vue.js
-- **Backend:** Express.js, Python, Flask, Java Spring Boot
+- **Frontend:** React.js, React Native, Flutter, Angular.js, Vue.js
+- **Backend:** Express.js, Python, Flask, Java Spring Boot, FastAPI
 - **Databases:** MongoDB, MySQL, Oracle DB
 - **Blockchain:** Solidity, Smart Contracts, Blockchain Architecture
 - **Other:** Object-Oriented Programming
@@ -24,6 +24,7 @@ I'm a passionate **Computer Engineering** student with a strong focus on **web p
 - **K.Maraş Çukurova Elektrik Anatolian High School** (2017 - 2019)
 
 ## 💼 Work Experience
+- **Candidate engineer at TURKSAT INC. which is a flagship company in the field of satellite systems.
 - **Software Developer Intern** at ERC Grup Software, Engineering, and Consultancy (2024 August - 2024 September)
 - **Software Developer Intern** at Institute of Water Management (2024 July - 2024 August)
 - **Part-Time Software Developer** at TRK Technology (2023 June - 2023 December)
@@ -31,7 +32,7 @@ I'm a passionate **Computer Engineering** student with a strong focus on **web p
 ## 🌐 Languages
 - **Turkish:** Native
 - **English:** Advanced
-- **Spanish:** Intermediate
+- **Spanish:** Pre-Intermediate
 
 ## 🤝 Looking to Collaborate
 I'm open to collaborations on **blockchain structures** and **full-stack web development** projects. Let's create something innovative together!
