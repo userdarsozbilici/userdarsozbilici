@@ -4,7 +4,7 @@ I'm a passionate **Computer Engineering** student with a strong focus on **web p
 
 ## 🔭 Current Projects
 - **Co-Founder of AnkaX Labs:** A startup focused on real-life blockchain solutions. We've developed projects like [GoDoctorDate](https://www.godoctordate.com), a doctor-patient appointment and portfolio web application.
-- **TOBB ETU GARAJ Incubation Center:** Working on a blockchain-based recycling project that has been accepted into this prestigious incubation center.
+- **TOBB ETU GARAJ Incubation Center:** Worked on a blockchain-based recycling project that has been accepted into this prestigious incubation center.
 
 ## 🌱 Learning Journey
 - Currently deepening my knowledge in Full-Stack Development.
