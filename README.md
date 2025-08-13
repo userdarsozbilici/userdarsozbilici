@@ -1,6 +1,6 @@
 # Hi there, I’m Ümit Serdar Sözbilici 👋
 
-I'm a passionate **Computer Engineer** with a strong focus on **full stack  programming** and **blockchain technologies**. My expertise lies in full-stack development, with particular proficiency in frameworks such as **Vue.js, React.js, Flutter**, and **React Native**.
+I'm a passionate **Computer Engineer** with a strong focus on **full stack  programming** and **blockchain technologies**. My expertise lies in full-stack development, with particular proficiency in frameworks such as **Vue.js, React.js, Flutter**, FastApi**, Spring Boot**, and **React Native**.
 
 ## 🔭 Current Projects
 - **Co-Founder of AnkaX Labs:** A startup focused on real-life blockchain solutions. We've developed projects like [GoDoctorDate](https://www.godoctordate.com), a doctor-patient appointment and portfolio web application.
