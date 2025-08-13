@@ -24,7 +24,8 @@ I'm a passionate **Computer Engineering** student with a strong focus on **web p
 - **K.Maraş Çukurova Elektrik Anatolian High School** (2017 - 2019)
 
 ## 💼 Work Experience
-- **Candidate engineer** at TURKSAT INC. which is a flagship company in the field of satellite systems.
+- **Software Developer** at TURKSAT INC. which is a flagship company in the field of satellite systems.
+- **Candidate Engineer** at TURKSAT INC. which is a flagship company in the field of satellite systems.
 - **Software Developer Intern** at ERC Grup Software, Engineering, and Consultancy (2024 August - 2024 September)
 - **Software Developer Intern** at Institute of Water Management (2024 July - 2024 August)
 - **Part-Time Software Developer** at TRK Technology (2023 June - 2023 December)
